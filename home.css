@@ -1,0 +1,17 @@
+/**{outline: 1px solid red !important;}*/
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+
+body	{
+}
+
+.tudo	{
+	width: 100%;
+	max-width: 1080px;
+	margin: 0 auto;
+}
